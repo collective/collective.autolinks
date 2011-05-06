@@ -5,7 +5,7 @@ Make links out of urls automatically with JQuery
 
 Based On
 --------
-http://kawika.org/jquery/js/jquery.autolink.js
+https://gist.github.com/47317
 
 Info
 ----
